@@ -1,6 +1,6 @@
 # Implementation of Attention U-NET.
 
-I implement the Attention U-NET architecture proposed on the next paper:
+I implemented the Attention U-NET architecture proposed on the next paper:
 
 [Oktay, O., Schlemper, J., Folgoc, L. L., Lee, M., Heinrich, M., Misawa, K., Mori, K., McDonagh, S., Hammerla, N. Y., Kainz, B., Glocker, B., & Rueckert, D. (2018). Attention U-Net: Learning where to look for the pancreas.](https://arxiv.org/abs/1804.03999)
 
